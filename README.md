@@ -1,2 +1,2 @@
 # bootcamp
-This repo includes most exercises and coding refreshers as part of multiple programing bootcamps, including Appacademy and freeBootCamp.
+This repo includes most exercises and coding refreshers part of multiple programing bootcamps, including Appacademy and freeBootCamp.
